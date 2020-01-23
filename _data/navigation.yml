@@ -3,9 +3,15 @@ main:
   #   url: /posts/
   # - title: "Years"
   #   url: /categories/
-  - title: "Portfolio"
-    url: /portfolio-page/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Research"
+    url: /research-page/
+  - title: "Projects"
+    url: /project-page/  
+  # - title: "Portfolio"
+  #   url: /portfolio-page/
+  - title: "CV"
+    url: /cv/
+  # - title: "Posts"
+  #   url: /posts/
+  # - title: "About"
+  #   url: /about/
