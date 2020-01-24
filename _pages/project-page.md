@@ -35,7 +35,7 @@ project_row:
     alt: "plant vs zombie (Java)"
     title: "Plants vs Zombies using Java"
     excerpt: "Project of java programming course, with multi-level difficulties and smooth animation. Powered by LibGDX framework."
-    url: "/project/plantsvszombies"
+    url: "https://github.com/HenryNebula/plantsvszombies"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
