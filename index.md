@@ -8,47 +8,29 @@ author_profile: true
 title: 'About me'
 ---
 
-I am currently a first year graduate student persuing Master of Data Sicence degree at Columbia University. I am interested in recommender systems and data privacy. Previous experiences have opened the door of data science for me, and I am really passionate about persuing a professional career in related fields in the near future. 
+Hey there! I'm an AI Architect and Technical Lead with a passion for turning complex data into smart, automated solutions. My background is rooted in Data Science and Machine Learning, and these days I spend my time designing agentic workflows and agents to solve real-world challenges or just to have fun!
 
-## Previous work and research experiences
+## Professional Experience
+- **Technical Lead & AI Architect** — IBM
 
-- **Full-time Algorithm Intern** - _Tencent, Beijing_<br> 
-  During the summer of 2019, I worded as an algorithm intern at Tencent PCG where I implemented a content based recall algorithm for short form video recommendations during my internship at **[Tencent Video](http://v.qq.com/)**, mainly using Scala and Spark. 
+  * AI Orchestration: Architecting agentic workflows and integrating LLMs into enterprise ecosystems to automate complex business processes.
+  * System Integration: Leading teams to consolidate disparate data sources via RESTful APIs, streamlining global workflows across multiple international regions.
+  * Data Engineering: Designing scalable pipelines using event streams and vector databases to manage both structured and unstructured data.
+  * Generative AI & RAG: Developed Retrieval-Augmented Generation (RAG) frameworks to transform internal documentation into actionable business insights.
 
-- **Research Assistant** - _Tsinghua University, Beijing_<br>
-  I have been a research assistant of **[Fib-Lab](http://fi.ee.tsinghua.edu.cn/)** at Tsinghua University, under the guidance of Prof. **[Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/)** and have participated in research projects covering topics of differential privacy and recommender systems.
 
-- **Research Assistant** - _University of Southern California, Los Angeles_<br>
-  During the summer of 2018, I have been a research assistant of **[InfoLab](https://infolab.usc.edu/)** at Univerisity of Southern California, under the guidance of Prof. **[Cyrus Shahabi](https://infolab.usc.edu/Shahabi/)**. During my stay there, I mainly worked on a data-driven mobility visualization project.
+## Technical Skills
+
+- **Languages**: Python, SQL, Java, JavaScript 
+- **AI & Machine Learning**: PyTorch, Scikit-Learn, LangChain/LangGraph, Model Context Protocol (MCP) 
+- **Data Engineering**: Apache Spark, Kafka, PostgreSQL, Milvus, DuckDB, ETL Pipelines 
+- **Cloud & DevOps**: FastAPI, Docker, OpenShift, CI/CD (GitHub Actions)
 
 ## Education
 
 - **M.S. in Data Science** - _Columbia University_<br>
-  Currently pursing my master degree of Data Science at Columbia. Expected to graduate at Dec. 2020.
-
 - **B.Eng. in Electronic Engineering** - _Tsinghua University_<br>
-  I graduated from Tsinghua University with a Bachelor of Engineering in July 2019, majoring in *Electronic Engineering*.
-
-
-## Programming Skills
-
-Proficient with: **Python, Apache Spark, PyTorch, Scikit-Learn, Matlab, SQL, Git.**
-
-Familiar with: **Java**, **Scala**, **C/C++**, 
-
-## Languages
-
-| Language | Level  |
-|----------|--------|
-| English  | Fluent |
-| Mandarin | Proficient |
-
-## CV
-
-Find attached the PDF version of my [CV]({{ site.url }}/download/CV_english.pdf).
-
-Update: 2020/01
 
 ## Contact me
 
-For any inquires, you can reach me via email: **_[ch3474@columbia.edu](mailto:ch3474@columbia.edu)_**
+For any inquires, you can reach me via email: **_[henrynebula0710@gmail.com](mailto:henrynebula0710@gmail.com)_**
