@@ -1,0 +1,33 @@
+[
+  {
+    "name": "JayDeBeApiArrow",
+    "description": "A Python module providing a DB-API v2.0 interface to JDBC drivers, utilizing Apache Arrow to deliver 20x speed improvements for data transfer and type conversion.",
+    "link": "https://github.com/HenryNebula/jaydebeapiarrow",
+    "image": "/images/jaydebeapiarrow-logo.png",
+    "skills": [
+      "Python",
+      "Apache Arrow",
+      "JDBC",
+      "Data Engineering"
+    ]
+  },
+  {
+    "name": "Auto-Annotation of Pathology Images",
+    "description": "A human-in-the-loop pipeline utilizing deep learning models like U-Net and Mask R-CNN, to automate the segmentation and annotation of structures in pathology whole slide images.",
+    "link": "https://datascience.columbia.edu/wp-content/uploads/2020/12/20_Perotte_Auto-annotation-of-Pathology-Images.pdf",
+    "image": "/images/aapi.jpg",
+    "skills": [
+      "Deep Learning",
+      "Computer Vision",
+      "Medical Imaging",
+      "PyTorch"
+    ]
+  },
+  {
+    "name": "Plants vs Zombies (Java)",
+    "description": "Java game project with multi-level difficulties and smooth animation, powered by LibGDX framework",
+    "link": "https://github.com/HenryNebula/plantsvszombies",
+    "image": "/images/plantsvszombies.jpg",
+    "skills": ["Java", "LibGDX", "Game Development"]
+  }
+]
