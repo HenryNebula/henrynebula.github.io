@@ -1,0 +1,13 @@
+[
+  {
+    "company": "IBM",
+    "title": "Technical Lead & AI Architect",
+    "dateRange": "Present",
+    "bullets": [
+      "Architecting agentic workflows and integrating LLMs into enterprise ecosystems to automate complex business processes",
+      "Leading teams to consolidate disparate data sources via RESTful APIs, streamlining global workflows across multiple international regions",
+      "Designing scalable pipelines using event streams and vector databases to manage both structured and unstructured data",
+      "Developed Retrieval-Augmented Generation (RAG) frameworks to transform internal documentation into actionable business insights"
+    ]
+  }
+]
